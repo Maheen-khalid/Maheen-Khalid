@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN, Python , Javascript , PHP**
 
-- 📫 How to reach me **maheenkhalid76@fmail.com**
+- 📫 How to reach me **maheenkhalid76@gmail.com**
 
 - ⚡ Fun fact **I can control my dreams :p**
 
